@@ -1,3 +1,5 @@
+# API voor ons IoT eindproject
+
 Vervang opnieuw < TIME >, < TEMPERATURE >, < DEPTH > en < id > met de gewenste waarden voor de meting.
 
 Om een put request te posten naar de api via cmd, gebruik curl -X PUT -d "time=< TIME >&temperature=< TEMPERATURE >&depth=< DEPTH >" http://127.0.0.1:5000/data/meting_< id > gebruik put alleen als je super specifieke data wilt posten
